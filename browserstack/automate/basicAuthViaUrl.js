@@ -1,9 +1,9 @@
 const {Builder, By, Key, until} = require('selenium-webdriver');
 
 (async () => {
-  var BROWSERSTACK_USERNAME = "inderjeetsaluja_IyX0Zc"
-  var BROWSERSTACK_ACCESS_KEY = "Sdhzn5qssCTptxY5uFJq"
-  
+  var BROWSERSTACK_USERNAME = "BROWSERSTACK_USERNAME"
+  var BROWSERSTACK_ACCESS_KEY = "BROWSERSTACK_ACCESS_KEY"
+
   var capabilities = {
     "os" : "Windows",
     "os_version" : "8.1",
