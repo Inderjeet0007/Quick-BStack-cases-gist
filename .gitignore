@@ -1,4 +1,3 @@
-/browserstack/app-automate/*
 /requests-debugger
 /browserstack/automate/web_extension.crx
 /browserstack/automate/uploadFileUsingLocalFileDetector.js
